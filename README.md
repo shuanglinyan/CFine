@@ -36,6 +36,11 @@ Organize them in `your dataset root dir` folder as follows:
 |       |-- data_captions.json
 ```
 
+## Data Preparation
+1. Run data.sh (or Download from [here](https://pan.baidu.com/s/1BVWznx_fDdiu_d-DTwbjNw?pwd=k8lr))
+2. Copy files **test_reid.json**, **train_reid.json** and **val_reid.json** to project_directory/cuhkpedes/processed_data/
+
+
 ## Training
 
 ```python
