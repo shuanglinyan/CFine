@@ -65,10 +65,14 @@ If you find this code useful for your research, please cite our paper.
 
 ```tex
 @article{CFine,
-  author = {Shuanglin Yan and Neng Dong and Liyan Zhang and Jinhui Tang},
-  title = {CLIP-Driven Fine-grained Text-Image Person Re-identification},
-  journal = {arXiv},
-  year = {2022}
+   title={CLIP-Driven Fine-grained Text-Image Person Re-identification}, 
+   author={Shuanglin Yan and Neng Dong and Liyan Zhang and Jinhui Tang},
+   journal={IEEE Transactions on Image Processing}, 
+   year={2023},
+   volume={},
+   number={},
+   pages={1-14},
+   doi={10.1109/TIP.2023.3327924}
 }
 ```
 
